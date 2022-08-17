@@ -1,0 +1,85 @@
+Subdivision,3166-2 code,Subdivision name,country
+federal district,BR-DF,Distrito Federal,BR
+state,BR-AC,Acre,BR
+state,BR-AL,Alagoas,BR
+state,BR-AP,Amapá,BR
+state,BR-AM,Amazonas,BR
+state,BR-BA,Bahia,BR
+state,BR-CE,Ceará,BR
+state,BR-ES,Espírito Santo,BR
+state,BR-GO,Goiás,BR
+state,BR-MA,Maranhão,BR
+state,BR-MT,Mato Grosso,BR
+state,BR-MS,Mato Grosso do Sul,BR
+state,BR-MG,Minas Gerais,BR
+state,BR-PR,Paraná,BR
+state,BR-PB,Paraíba,BR
+state,BR-PA,Pará,BR
+state,BR-PE,Pernambuco,BR
+state,BR-PI,Piauí,BR
+state,BR-RN,Rio Grande do Norte,BR
+state,BR-RS,Rio Grande do Sul,BR
+state,BR-RJ,Rio de Janeiro,BR
+state,BR-RO,Rondônia,BR
+state,BR-RR,Roraima,BR
+state,BR-SC,Santa Catarina,BR
+state,BR-SE,Sergipe,BR
+state,BR-SP,São Paulo,BR
+state,BR-TO,Tocantins,BR
+state,US-AL,Alabama,US
+state,US-AK,Alaska,US
+outlying area,US-AS,American Samoa (see also separate country code entry under AS),US
+state,US-AZ,Arizona,US
+state,US-AR,Arkansas,US
+state,US-CA,California,US
+state,US-CO,Colorado,US
+state,US-CT,Connecticut,US
+state,US-DE,Delaware,US
+district,US-DC,District of Columbia,US
+state,US-FL,Florida,US
+state,US-GA,Georgia,US
+outlying area,US-GU,Guam (see also separate country code entry under GU),US
+state,US-HI,Hawaii,US
+state,US-ID,Idaho,US
+state,US-IL,Illinois,US
+state,US-IN,Indiana,US
+state,US-IA,Iowa,US
+state,US-KS,Kansas,US
+state,US-KY,Kentucky,US
+state,US-LA,Louisiana,US
+state,US-ME,Maine,US
+state,US-MD,Maryland,US
+state,US-MA,Massachusetts,US
+state,US-MI,Michigan,US
+state,US-MN,Minnesota,US
+state,US-MS,Mississippi,US
+state,US-MO,Missouri,US
+state,US-MT,Montana,US
+state,US-NE,Nebraska,US
+state,US-NV,Nevada,US
+state,US-NH,New Hampshire,US
+state,US-NJ,New Jersey,US
+state,US-NM,New Mexico,US
+state,US-NY,New York,US
+state,US-NC,North Carolina,US
+state,US-ND,North Dakota,US
+outlying area,US-MP,Northern Mariana Islands (see also separate country code entry under MP),US
+state,US-OH,Ohio,US
+state,US-OK,Oklahoma,US
+state,US-OR,Oregon,US
+state,US-PA,Pennsylvania,US
+outlying area,US-PR,Puerto Rico (see also separate country code entry under PR),US
+state,US-RI,Rhode Island,US
+state,US-SC,South Carolina,US
+state,US-SD,South Dakota,US
+state,US-TN,Tennessee,US
+state,US-TX,Texas,US
+outlying area,US-UM,United States Minor Outlying Islands (see also separate country code entry under UM),US
+state,US-UT,Utah,US
+state,US-VT,Vermont,US
+outlying area,US-VI,"Virgin Islands, U.S. (see also separate country code entry under VI)",US
+state,US-VA,Virginia,US
+state,US-WA,Washington,US
+state,US-WV,West Virginia,US
+state,US-WI,Wisconsin,US
+state,US-WY,Wyoming,US
